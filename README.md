@@ -5,7 +5,7 @@
 1. [mongo-sharding-repl/](mongo-sharding-repl/) - То же + по 3 реплики на каждый шард
 1. [sharding-repl-cache/](sharding-repl-cache/) - финальный вариант: шарды, реплики, Redis, API
 
-**Схемы:** [diagrams/architecture-final.drawio](diagrams/architecture-final.drawio) — несколько вкладок (шардирование → репликация → Redis → API Gateway / Consul → CDN).
+**Схемы:** [diagrams/architecture-final.drawio](diagrams/architecture-final.drawio) — несколько вкладок (шардирование → репликация → Redis → API Gateway / Consul → CDN). На первой (0) вкладке финальная схема
 
 **Архитектурный документ (задания 7–10):** [ARCHITECTURE.md](ARCHITECTURE.md).
 
